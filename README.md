@@ -21,6 +21,21 @@ Welcome to my **Machine Learning Portfolio**! This repository showcases a collec
 | **Medical_Insurance_Cost_Prediction(VARUNG).ipynb** | Predicting insurance costs based on customer data. |
 | **PatientCare_classification_system(varung).ipynb** | Classifying patients for optimized care plans using machine learning. |
 | **Water_Quality_Prediction(varung).ipynb** | Evaluating water quality using classification techniques. |
+| **CLUSTERING/** | Directory containing clustering-related projects and notebooks. |
+| **COMPARISON BETWEEN REGRESSION AND CLASSIFICATION/** | Analysis and comparison of regression and classification techniques. |
+| **DATA SCIENCE/** | Miscellaneous data science projects and explorations. |
+| **DIABETIC PREDICTION WITH UI/** | A project predicting diabetes with an interactive user interface. |
+| **FLIGHT PREDICTION WITH UI/** | Flight price prediction with a user-friendly interface. |
+| **GRADIENT BOOST MACHINE/** | Projects involving gradient boosting algorithms. |
+| **K NEAREST NEIGHBOUR/** | Projects utilizing KNN for classification or regression. |
+| **NAIVE BAYES CLASSIFIER/** | Implementations of Naive Bayes for various classification tasks. |
+| **NATURAL LANGUAGE PROCESSING/** | NLP-related projects, including text classification and sentiment analysis. |
+| **REINFORCEMENT LEARNING/** | Experiments with reinforcement learning techniques. |
+| **Random Forest/** | Random Forest projects for classification and regression. |
+| **SVM/** | Support Vector Machine projects for classification and regression. |
+| **TIMESERIES/** | Time series analysis and forecasting projects. |
+| **TRY AND TEST/** | Experimental and testing projects. |
+| **XG BOOST ALGORITHM/** | XGBoost-based machine learning projects. |
 
 ### 📁 Datasets
 
@@ -39,7 +54,7 @@ Welcome to my **Machine Learning Portfolio**! This repository showcases a collec
 
 ## 🌟 Key Features
 
-1. **Comprehensive Portfolio:** Includes projects on clustering, classification, regression, and NLP.
+1. **Comprehensive Portfolio:** Includes projects on clustering, classification, regression, NLP, reinforcement learning, and time series analysis.
 2. **Detailed Notebooks:** Each notebook is self-contained with explanations, visualizations, and insights.
 3. **Real-world Datasets:** Projects utilize diverse datasets to mimic real-world problems.
 4. **End-to-End Workflows:** Covers data preprocessing, modeling, evaluation, and visualization.
@@ -50,23 +65,27 @@ Welcome to my **Machine Learning Portfolio**! This repository showcases a collec
 
 - **Programming Languages:** Python
 - **Libraries & Frameworks:**
-  - Pandas, NumPy,
+  - Pandas, NumPy
   - Scikit-learn, TensorFlow, Keras
   - Matplotlib, Seaborn, Plotly
   - NLTK, SpaCy
+  - XGBoost, LightGBM
+  - PyTorch
 - **Algorithms:**
   - Regression (Linear, Logistic)
   - Clustering (K-Means, Hierarchical)
   - Classification (SVM, Random Forest, Neural Networks)
   - Gradient Descent Optimization
+  - Ensemble Methods (Gradient Boosting, XGBoost)
+  - Reinforcement Learning (Q-Learning, Deep Q-Networks)
 
----
+
 
 ## 🚀 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/machine-learning-portfolio.git
+   git clone https://github.com/gvarun20/machine-learning-portfolio.git
    cd machine-learning-portfolio
    ```
 2. Install dependencies:
